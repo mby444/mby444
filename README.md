@@ -118,6 +118,6 @@ An interactive web platform built for a gaming Intellectual Property (IP) and Tr
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mby444&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mby444&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=mby444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mby444&theme=tokyonight" alt="Top Languages" />
 </div>
